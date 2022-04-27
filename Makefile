@@ -1,4 +1,4 @@
-CROSS_PREFIX=aarch64-linux-gnu-
+CROSS_PREFIX=aarch64-elf-
 
 all: test64.elf
 
